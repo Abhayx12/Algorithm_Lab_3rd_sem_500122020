@@ -1,27 +1,27 @@
-# *Algorithm_Lab_3rd_Sem_500122020* 🧑‍💻🔍
+# **_Algorithm_Lab_3rd_Sem_500122020_** 🧑‍💻🔬
 
-This repository showcases various algorithm implementations from our lab exercises. Each lab focuses on a distinct algorithmic concept, exploring approaches like recursion, iteration, divide and conquer, and greedy strategies. Below is a brief overview of each lab:
+This repository showcases various algorithm implementations from our lab exercises. Each lab explores distinct algorithmic concepts, focusing on strategies like recursion, iteration, divide and conquer, and greedy techniques. Below is an overview of each lab:
 
-## *LAB-1: Binary Search Tree (BST) Insertion* 🌲
+## **_LAB-1: Binary Search Tree (BST) Insertion_** 🌳
 ### Topic: 
 Implement and compare the performance of iterative and recursive Binary Search Tree insertion techniques.
 
-- *Description*: This lab involves the implementation of both iterative and recursive methods for inserting elements into a Binary Search Tree (BST). The lab also compares the performance and efficiency of these two approaches.
+- **Description**: This lab focuses on the insertion of elements into a Binary Search Tree (BST) using both iterative and recursive methods. We also analyze the efficiency of each technique in different scenarios.
 
-## *LAB-2: Merge Sort vs Quick Sort* ⚖
+## **_LAB-2: Merge Sort vs Quick Sort_** 🆚
 ### Topic: 
-Implement Merge Sort and Quick Sort using the divide-and-conquer strategy, and compare their performance on the same dataset.
+Implement Merge Sort and Quick Sort using the divide-and-conquer strategy, and compare their efficiency on the same dataset.
 
-- *Description*: In this lab, we implement and analyze the performance of two widely-used sorting algorithms, Merge Sort and Quick Sort, when applied to an identical set of elements.
+- **Description**: In this lab, you will explore two fundamental sorting algorithms—Merge Sort and Quick Sort—by implementing them and comparing their performances on identical datasets.
 
-## *LAB-3: Matrix Multiplication Techniques* 🧮
+## **_LAB-3: Matrix Multiplication Techniques_** 🔢
 ### Topic: 
 Compare Strassen's Matrix Multiplication with the traditional method.
 
-- *Description*: This lab delves into matrix multiplication, comparing Strassen's algorithm with the conventional matrix multiplication method, evaluating their efficiency across various matrix sizes.
+- **Description**: This lab involves a comparison between Strassen's matrix multiplication algorithm and the standard matrix multiplication approach. We assess their efficiency for different matrix sizes to understand their practical use cases.
 
-## *LAB-4: Activity Selection Problem* 🏅
+## **_LAB-4: Activity Selection Problem_** 🎯
 ### Topic: 
-Implement the Activity Selection Problem to understand the greedy algorithm approach.
+Implement the Activity Selection Problem to explore the greedy algorithm approach.
 
-- *Description*: This lab presents the Activity Selection Problem, demonstrating how a greedy algorithm can be used to select the maximum number of non-overlapping activities.
+- **Description**: This lab presents the Activity Selection Problem, demonstrating how the greedy algorithm can efficiently solve scheduling problems by maximizing the number of non-overlapping activities selected.
